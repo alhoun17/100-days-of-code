@@ -10,8 +10,8 @@
 
 ### Day 1: June 4th, 2017
 
-**Today's Progress:**
+**Today's Progress:** Started creating a landing page for my blog Fighting DMD.  https://fightingdmd.com. 
 
-**Thoughts:**
+**Thoughts:** Still working on the layout. This was hard but feeling like I can handle it. 
 
-**Link(s) to work:**
+**Link(s) to work:** https://codepen.io/alhoun78/pen/bWJzGy
