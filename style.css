@@ -1,43 +1,159 @@
-.container-fluid { 
-    background-color: #f4511e; /* Orange */
-    color: #ffffff;
-    padding-top: 70px;
-    padding-bottom: 70px;
-}
-.bg-1 { 
-      background-color: #1abc9c; /* Green */
-      color: #ffffff;
-  }
-  .bg-2 { 
-      background-color: #474e5d; /* Dark Blue */
-      color: #ffffff;
-  }
-  .bg-3 { 
-      background-color: #ffffff; /* White */
-      color: #555555;
-  }
-.navbar {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border: 0;
-    border-radius: 0;
-    margin-bottom: 0;
-    font-size: 12px;
-    letter-spacing: 5px;
-}
-
-.navbar-nav li a:hover {
-    color: #1abc9c !important;
-}
-.bg-4 { 
-    background-color: #2f2f2f;
-    color: #ffffff;
-}
 body {
-    font: 20px "Montserrat", sans-serif;
-    line-height: 1.8;
-    color: #f5f6f7;
+    font-family: "droid sans", sans-serif;
+    background: #222222;
+    color: #2D3034;
+    font-size: 2em;
+    text-align: center;
 }
 
-p {font-size: 16px;}
-.margin {margin-bottom: 45px;}
+.container {
+    background-color: lightgrey;
+}
+
+.screen1 {
+    text-align: center;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    background-size: cover;
+    padding-top: 30vh;
+    height: 100vh;
+}
+
+.screen2 {
+    background-size: cover;
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+    min-height: 100vh;
+}
+
+.screen3 {
+    background-size: cover;
+    padding-top: 5vh;
+    padding-bottom: 10vh;
+    min-height: 100vh;
+}
+
+.screen4 {
+    background-size: cover;
+    height: 100vh;
+}
+
+.license-text {
+    display: inline-block;
+    font-size: 0.75em;
+    color: #9D9D91;
+    margin-left: 1em;
+}
+
+.foot a {
+    text-decoration: none;
+    color: #9D9D91;
+}
+
+.foot a:hover {
+    color: #E5E6E8;
+}
+
+.foot {
+    margin-top: 7%;
+}
+
+.screen1 h1 {
+    font-size: 3em;
+    font-weight: bolder;
+}
+
+.screen1 h3 {
+    padding-top: 1%;
+    font-weight: bold;
+}
+
+.section-title h2 {
+    font-size: 2em;
+    font-weight: bolder;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.section-title .well {
+    display: inline-block;
+    margin-top: 5vh;
+}
+
+.well {
+    background-color: rgba(175, 182, 192, .65);
+    color: black;
+    border: none;
+    border-radius: 3%;
+}
+
+.screen2 img {
+    border: 0.5em solid rgba(175, 182, 192, .90);
+    border-radius: 100%;
+}
+
+.project-top-row {
+    background-color: rgba(175, 182, 192, .5);
+}
+
+.project-description {
+    text-align: center;
+    color: #9D9D9D;
+}
+
+.project .well {
+    background-color: #222324;
+}
+
+.see-more {
+    text-align: center;
+    padding: auto;
+    height: 100%;
+}
+
+.see-more-text {
+    color: #9D9D9D;
+    font-weight: bold;
+}
+
+.overlay-well {
+    background-color: rgba(175, 182, 192, 0.30);
+    height: 100vh;
+}
+
+.email {
+    color: black;
+    text-shadow: -1px 0 rgb(175, 182, 192), 0 1px rgb(175, 182, 192), 1px 0 rgb(175, 182, 192), 0 -1px rgb(175, 182, 192);
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    margin-top: 6em;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.btn {
+    background-color: rgb(175, 182, 192);
+    font-weight: bold;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+}
+
+.section-title {
+    text-align: center;
+}
+
+.email {
+    text-align: center;
+}
+
+.footer {
+    height: 120px;
+}
+
+.navbar-right {
+    margin-right: 8.333%;
+}
