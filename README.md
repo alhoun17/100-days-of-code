@@ -4,7 +4,7 @@
 
 | log 1 (days 101-200) |
 | --- |
-| [100 Days of Code Round 2]() |
+| [100 Days Round 2](https://alhoun17.github.io/100-days-of-code-log) |
 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
@@ -63,7 +63,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - I saw this idea for logging code challenge in a GitHub page and decided to try it. I haven't been updating GitHub lately so this log will ensure that I do.   
 
 **Link to Work:**
-
+- [100 Days Of Code Log Round 2](https://alhoun17.github.io/100-days-of-code-log)
 ---
 
 ## 9. Udacity Intro to Computer Science
@@ -77,6 +77,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Started Unit Four: Responding to Queries lessons 1-10
 
 **Thoughts:**
+
+[][screenshot](
 
 **Link to Work:**
 - [Problem Set (Optional)](https://classroom.udacity.com/courses/cs101/lessons/48329871/concepts/7004686030923)
