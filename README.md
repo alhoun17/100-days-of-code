@@ -50,12 +50,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-## 10. Udacity Intro to Computer Science
+## 10. GitHub 100 Days of Code log
 ### Day 10: May 30, 2018 - Wednesday 
 
-**Project:**
+**Project:** Setup 100 Days of Code log on Github
 
-**Progress:**
+**Progress:** 
 
 **Thoughts:**
 
@@ -66,91 +66,104 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## 9. Udacity Intro to Computer Science
 ### Day 9: May 27, 2018 - Sunday 
 
-**Project:**
+**Project:** Problem Set (Optional 1 & 2) & Unit Four: Responding to Queries 
 
-**Progress:**
+**Progress:** Finished Problem Set (Optional 1 & 2) and started Unit Four: Responding to Queries lessons 1-10
 
 **Thoughts:**
 
 **Link to Work:**
+- [Problem Set (Optional)](https://classroom.udacity.com/courses/cs101/lessons/48329871/concepts/7004686030923)
+- [Problem Set (Optional 2)](https://classroom.udacity.com/courses/cs101/lessons/48700546/concepts/7104385610923)
+- [Responding to Queries](https://classroom.udacity.com/courses/cs101/lessons/48689146/concepts/480119780923)
 
 ---
 
 ## 8. Udacity Intro to Computer Science
 ### Day 8: May 26, 2018 - Saturday 
 
-**Project:**
+**Project:** Unit Three: How to Manage Data & Problem Set
 
-**Progress:**
+**Progress:** Finished How to Manage Data & Problem Set
 
 **Thoughts:**
 
 **Link to Work:**
+- [How to Manage Data](https://classroom.udacity.com/courses/cs101/lessons/48727569/concepts/486487340923)
+- [Problem Set](https://classroom.udacity.com/courses/cs101/lessons/48391984/concepts/487275770923)
 
 ---
 
 ## 7. Udacity Intro to Computer Science
 ### Day 7: May 25, 2018 - Friday  
 
-**Project:**
+**Project:** Unit Three: How to Manage Data 
 
-**Progress:**
+**Progress:** Worked on lessons 1-27
 
 **Thoughts:**
 
 **Link to Work:**
+- [How to Manage Data](https://classroom.udacity.com/courses/cs101/lessons/48727569/concepts/486487340923)
 
 ---
 
 ## 6. Udacity Intro to Computer Science
 ### Day 6: May 16, 2018 - Wednesday 
 
-**Project:**
+**Project:** Unit Two: How to Solve Problems
 
-**Progress:**
+**Progress:** Finished Unit Two: How to Solve Problems
 
 **Thoughts:**
 
 **Link to Work:**
+- - [How to Solve Problems](https://classroom.udacity.com/courses/cs101/lessons/108111980/concepts/1083254270923)
 
 ---
 
 ## 5. Udacity Intro to Computer Science
 ### Day 5: May 15, 2018 - Tuesday
 
-**Project:**
+**Project:** Unit One: Problem Set (Optional 1-2) and started Unit Two: How to Solve Problems
 
-**Progress:**
+**Progress:** Finished Problem Set (Optional 1 & Optional 2 quizzes 1-3) and did lessons 1-24 of How to Solve Problems 
 
 **Thoughts:**
 
 **Link to Work:**
+- [Problem Set (Optional)](https://classroom.udacity.com/courses/cs101/lessons/48198871/concepts/7134885850923)
+- [Problem Set (Optional 2)](https://classroom.udacity.com/courses/cs101/lessons/48689154/concepts/6986185940923)
+- [How to Solve Problems](https://classroom.udacity.com/courses/cs101/lessons/108111980/concepts/1083254270923)
 
 ---
 
 ## 4. Udacity Intro to Computer Science
 ### Day 4: May 13, 2018 - Sunday  
 
-**Project:** Unit Two: How to Repeat & Problem Set
+**Project:** Unit One: How to Repeat & Problem Set
 
 **Progress:** Finished 
 
 **Thoughts:**
 
-**Link to Work:** [How to Repeat](https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/486985440923) & [Problem Set](https://classroom.udacity.com/courses/cs101/lessons/48713769/concepts/487275590923)
+**Link to Work:** 
+- [How to Repeat](https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/486985440923) 
+- [Problem Set](https://classroom.udacity.com/courses/cs101/lessons/48713769/concepts/487275590923)
 
 ---
 
 ## 3. Udacity Intro to Computer Science
 ### Day 3: May 12, 2018 - Saturday
 
-**Project:** Unit Two: How to Repeat
+**Project:** Unit One: How to Repeat
 
 **Progress:** Completed Lessons 1-24
 
 **Thoughts:**
 
-**Link to Work:** [How to Repeat](https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/486985440923)
+**Link to Work:** 
+- [How to Repeat](https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/486985440923)
 
 ---
 
@@ -163,19 +176,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Thoughts:** Python is the best way to learn programming because of its simplicity 
 
-**Link to Work:** [Problem Set](https://classroom.udacity.com/courses/cs101/lessons/48719336/concepts/486357170923) & [Problem Set (Optional)](https://classroom.udacity.com/courses/cs101/lessons/48587892/concepts/7140985680923)
+**Link to Work:** 
+- [Problem Set](https://classroom.udacity.com/courses/cs101/lessons/48719336/concepts/486357170923) 
+- [Problem Set (Optional)](https://classroom.udacity.com/courses/cs101/lessons/48587892/concepts/7140985680923)
 
 ---
 
 ## 1. Udacity Intro to Computer Science
 ### Day 1: May 9, 2018 - Wednesday
 
-**Project:** Unit One: How to Get Started
+**Project:** How to Get Started
 
 **Progress:** Finished the Unit
 
 **Thoughts:** I should have started with the basics would have been easier to understand
 
-**Link to Work:** [How to Get Started](https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/486985440923)
+**Link to Work:** 
+- [How to Get Started](https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/486985440923)
 
 ---
