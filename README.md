@@ -50,6 +50,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 11. Udacity Intro to Computer Science
+### Day 11: June 1, 2018 - Friday
+
+**Project:**
+
+**Progress:**
+
+**Thoughts:**
+
+**Link to Work:**
+
+---
+
 ## 10. GitHub 100 Days of Code log
 ### Day 10: May 30, 2018 - Wednesday 
 
@@ -62,8 +75,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** 
 - I saw this idea for logging code challenge in a GitHub page and decided to try it. I haven't been updating GitHub lately so this log will ensure that I do.   
 
+[100 Days of Code Log][screenshot]()
+
 **Link to Work:**
 - [100 Days Of Code Log Round 2](https://alhoun17.github.io/100-days-of-code-log)
+
 ---
 
 ## 9. Udacity Intro to Computer Science
@@ -77,8 +93,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Started Unit Four: Responding to Queries lessons 1-10
 
 **Thoughts:**
-
-[][screenshot](
 
 **Link to Work:**
 - [Problem Set (Optional)](https://classroom.udacity.com/courses/cs101/lessons/48329871/concepts/7004686030923)
