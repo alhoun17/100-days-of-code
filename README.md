@@ -75,7 +75,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** 
 - I saw this idea for logging code challenge in a GitHub page and decided to try it. I haven't been updating GitHub lately so this log will ensure that I do.   
 
-[![screenshot](100-days-of-code-log/assets/images/100DaysOfCode log.png)]
+[![screenshot](100-days-of-code-log/assets/images/100DaysOfCode log.png)
 
 **Link to Work:**
 - [100 Days Of Code Log Round 2](https://alhoun17.github.io/100-days-of-code-log)
