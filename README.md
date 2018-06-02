@@ -54,12 +54,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 11: June 1, 2018 - Friday
 
 **Project:**
+- Finish Unit Four: Responding to Queries
+- Complete Problem Set
 
 **Progress:**
+- Finished Unit Four: Responding to Queries lessons 11-21
+- Completed the Problem Set
 
 **Thoughts:**
+- Still struggling with problem solving. 
 
 **Link to Work:**
+- [Responding to Queries](https://classroom.udacity.com/courses/cs101/lessons/48689146/concepts/486787620923)
+- [Problem Set](https://classroom.udacity.com/courses/cs101/lessons/48737171/concepts/485084280923)
 
 ---
 
