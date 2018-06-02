@@ -50,6 +50,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 12. Node.js Tutorial for Beginners: Learn Node in 1 Hour by Programming with Mosh
+### Day 12: June 2, 2018 - Saturday
+
+**Project:** 
+- Node.js Tutorial for Beginners
+
+**Progress:**
+- Tutorial completed
+
+**Thoughts:**
+- My second time playing around with Node.js. I need to learn how to create something with it. 
+
+**Link to Work:**
+- [Node.js Tutorial](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+
+---
+
 ## 11. Udacity Intro to Computer Science
 ### Day 11: June 1, 2018 - Friday
 
