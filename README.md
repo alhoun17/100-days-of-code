@@ -18,7 +18,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Goals
 
-- [x] Code seven days a week
+- [x] Code seven days a week for two hours
 - [x] Build portfolio
 - [x] Keep my Github up to date
 - [x] Use Twitter to update status
@@ -56,6 +56,46 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 2.
+
+### Day 2: January 31, 2020 - Friday
+
+**Project:**
+
+- Free Code Camp Survey Form Project
+
+**Progress:**
+
+- added some css to the form. Moved the form to center of the page
+
+**Thoughts:**
+
+- Styling and aranging things on the page is still difficult for me
+
+**Link to Work:**
+
+---
+
+## 1.
+
+### Day 1: January 30, 2020 - Thursday
+
+**Project:**
+
+- Worked on Free Code Camp Survey Form Project
+
+**Progress:**
+
+- added all required html and user stories to the webpage
+
+**Thoughts:**
+
+- Spent to much time working on this
+
+**Link to Work:**
+
+---
+
 ## 0. Pre-launch
 
 ### Day 0: January 29th, 2020 - Wednesday
@@ -68,8 +108,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - Two years ago I gave into to imposter syndrome and quit.
 - After exploring other options I realized that I made a mistake quitting teaching myself to code.
-- I let my frustrations get the best of me.  
-  **Thoughts:**
+- I let my frustrations get the best of me.
+
+**Thoughts:**
+
 - Going back to the basics because I have not done any coding for two years. I enjoy coding.
 
 **Link to Work:**
